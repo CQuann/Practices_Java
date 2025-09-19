@@ -19,7 +19,7 @@ public class Task2 {
             System.out.println(yuan + " юаня");
         }
         else {
-            System.out.println(yuan + " юуаней");
+            System.out.println(yuan + " юаней");
         }
 
         roubles = ROUBLES_PER_YUAN * yuan;
